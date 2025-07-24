@@ -28,6 +28,7 @@ public class BMICalculator {
         } else {
             System.out.println("Category: Obese");
         }
+        System.out.println("good project")
 
         sc.close();
     }
